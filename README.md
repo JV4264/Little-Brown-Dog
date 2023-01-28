@@ -1,3 +1,4 @@
 # Little-Brown-Dog
 
-Compiler: CLion
+IDE: CLion
+
